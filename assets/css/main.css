@@ -2216,7 +2216,7 @@ input, select, textarea {
 
 		.box.highlight header > p {
 			font-size: 1.65em;
-			margin: 0 0 1.5em 0;
+			margin: 0 0 0em 0;
 		}
 
 	.box.feature {
