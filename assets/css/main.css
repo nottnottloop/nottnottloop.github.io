@@ -2708,9 +2708,6 @@ input, select, textarea {
 	/*#navPanel, #titleBar {*/
 		display: none;
 	}
-	div#titleBar {
-		display: none;
-	}
 
 	@media screen and (max-width: 980px) {
 
