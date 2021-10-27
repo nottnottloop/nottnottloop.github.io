@@ -2705,11 +2705,11 @@ input, select, textarea {
 /* Medium */
 
 /*nottnott was here*/
-	/*#navPanel, #titleBar {*/
+	#navPanel, #titleBar {
 		display: none;
 	}
-
-	@media screen and (max-width: 980px) {
+/*nottnott was also here*/
+	@media screen and (max-width: 1280) {
 
 		/* Basic */
 
