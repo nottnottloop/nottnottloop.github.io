@@ -7,6 +7,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* key stuff */
+.myvideo {
+    /*position: relative;*/
+    margin: auto;
+    top: 25%;
+    left: 75%;
+    /*transform: translate(-50%, -50%);*/
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -130,7 +139,7 @@ input, select, textarea {
 			border-top: solid 5px #e7eae8;
 			font-size: 1.65em;
 			text-align: center;
-			/*margin: 0 0 3em 0;*/
+			margin: 0 0 3em 0;
 			top: 0.775em;
 		}
 
