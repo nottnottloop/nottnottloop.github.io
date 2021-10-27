@@ -255,7 +255,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		/*@media screen and (max-width: 736px) {
 
 			.container {
 				width: calc(100% - 40px);
@@ -269,7 +269,7 @@ input, select, textarea {
 				width: calc(100% - 30px);
 			}
 
-		}
+		}*/
 
 /* Row */
 
@@ -2216,7 +2216,7 @@ input, select, textarea {
 
 		.box.highlight header > p {
 			font-size: 1.65em;
-			margin: 0 0 0em 0;
+			margin: 0 0 1.5em 0;
 		}
 
 	.box.feature {
@@ -2704,7 +2704,11 @@ input, select, textarea {
 
 /* Medium */
 
-	#navPanel, #titleBar {
+/*nottnott was here*/
+	/*#navPanel, #titleBar {*/
+		display: none;
+	}
+	div#titleBar {
 		display: none;
 	}
 
